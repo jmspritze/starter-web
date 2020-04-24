@@ -8,5 +8,6 @@ This example is to show different parts of the Git repositoies and varios comman
 Sample website with plenty of files for demos
 
 ## Deployment
-
+adding info
+adding more
 ## How to contribute
