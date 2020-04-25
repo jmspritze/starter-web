@@ -11,6 +11,7 @@ Sample website with plenty of files for demos
 adding info
 adding more
 ## How to contribute
+Please fork this repo and then issue Pull requests for review.
 
 ### Copyright
 copyright @ 2020
